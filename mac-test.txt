@@ -1,0 +1,3 @@
+This is the test file.
+To see if the line ending would be different depending on the OS where I open this repo.
+end of file.
